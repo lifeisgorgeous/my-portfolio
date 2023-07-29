@@ -201,9 +201,9 @@ export const projects: ProjectType[] = [
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'Mehenaz Taherin',
+    name: '',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      '',
   },
 ];
 
@@ -214,10 +214,10 @@ export const showContactUs: boolean = true;
 export const seoData: SEODataType = {
   title: 'Solaiman Hridoy',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
+    'A passionate Full Stack Data Analyst and Analytics Developer.',
   author: 'Solaiman Hridoy',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://solaimanhridoy.com',
   keywords: [
     'Solaiman',
     'Solaiman Hridoy',
