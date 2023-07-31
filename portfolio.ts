@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Solaiman Hridoy',
-  title: "Hi all, I'm Solaiman",
+  title: "Hi! I'm Solaiman",
   description:
     "I'm a passionate Data Analyst having specialties in Data Analysis, Programming using Python, R, and SQL, Spreadsheets, Data Visualization using Looker Studio, Tableau, Youbora and Web Analytics using Google Analytics 4.",
   resumeLink:
@@ -30,9 +30,9 @@ export const socialLinks: SocialLinksType = {
   url: 'https://solaimanhridoy.com/',
   linkedin: 'https://www.linkedin.com/in/solaimanhridoy/',
   github: 'https://github.com/solaimanhridoy',
-  instagram: 'https://www.instagram.com/solaimanhrid0y',
+  instagram: 'https://www.instagram.com/solaiman_hridoy/',
   facebook: 'https://www.facebook.com/solaimanhrid0y',
-  twitter: 'https://twitter.com/solaimanhridoy',
+  twitter: 'https://twitter.com/SolaimanHridoy1',
 };
 
 export const skillsSection: SkillsSectionType = {
