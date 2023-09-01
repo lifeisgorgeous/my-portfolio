@@ -28,7 +28,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: 'https://solaimanhridoy.com/',
-  linkedin: 'https://www.linkedin.com/in/solaimanhridoy/',
+  linkedin: 'https://www.linkedin.com/in/solaiman-hridoy/',
   github: 'https://github.com/solaimanhridoy',
   instagram: 'https://www.instagram.com/solaiman_hridoy/',
   facebook: 'https://www.facebook.com/solaimanhrid0y',
