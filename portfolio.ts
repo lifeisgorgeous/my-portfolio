@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Solaiman Hridoy',
   title: "Hi! I'm Solaiman",
   description:
-    "I'm a passionate Data Analyst having specialties in Data Analysis, Programming using Python, R, and SQL, Spreadsheets, Data Visualization using Looker Studio, Tableau, Youbora and Web Analytics using Google Analytics 4.",
+    "I'm a passionate Data Analyst based in vibrant  Chattogram, Bangladesh. By day, I harness Analytics, Automation, SQL, Python, and R to elevate digital media, ensuring decisions are made 50% faster and client satisfaction gets a 15% boost. Beyond the data, I am someone who loves music, enjoys traveling to different places & foods, blending insights with melody, and letting data analysis dance to the rhythm of exploration. Join me on this journey where the world of analytics meets the thrill of adventure!",
   resumeLink:
     'https://www.canva.com/design/DAExkMYMIDw/L0ryYqGCOjf0AAYrdh_0Gg/view?utm_content=DAExkMYMIDw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
 };
@@ -101,15 +101,15 @@ export const skillsSection: SkillsSectionType = {
 
 export const SkillBars: SkillBarsType[] = [
   {
-    Stack: 'Data Collecting and Preprocessing', //Insert stack or technology you have experience in
+    Stack: 'Big Data Cleaning and Preprocessing', //Insert stack or technology you have experience in
     progressPercentage: '90', //Insert relative proficiency in percentage
   },
   {
-    Stack: 'Data Visualization',
+    Stack: 'Data Visualization and Insights',
     progressPercentage: '80',
   },
   {
-    Stack: 'Programming',
+    Stack: 'Automation with Programming Scripts',
     progressPercentage: '70',
   },
 ];
