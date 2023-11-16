@@ -135,24 +135,13 @@ export const experience: ExperienceType[] = [
     role: 'Senior Analytics Executive',
     company: 'Bongo (Stellar Digital Limited)',
     companyLogo: '/img/icons/common/bongo.png',
-    date: 'Feb 2023 – Present',
+    date: 'Feb 2022 – Present',
     desc: 'Skills: Web Analytics · Data Analytics · Dashboard · Analytical Skills · Google Data Studio · Video Analytics · Google Sheets · Google Analytics · Problem Solving · Tableau',
     descBullets: [
-      "Helping stakeholders make better business decisions by analyzing complex data and identifying problem areas. ",
-      "Generating comprehensive reports summarizing campaign data and key insights, enabling the team to quickly identify areas for improvement and make data-driven decisions.",
-      "Collaborating with cross-functional teams to collect, analyze, and interpret data from multiple platforms, resulting in the development of actionable recommendations for clients and improved campaign performance.",
-    ],
-  },
-  {
-    role: 'Analytics Executive',
-    company: 'Bongo (Stellar Digital Limited)',
-    companyLogo: '/img/icons/common/bongo.png',
-    date: 'Feb 2022 – Jan 2023',
-    desc: 'Skills: Web Analytics · Data Analytics · Dashboard · Analytical Skills · Google Data Studio · Video Analytics · Google Sheets · Microsoft Excel · Google Analytics · Python (Programming Language) · Problem Solving · Data Analysis · Data Visualization · SQL · PostgreSQL',
-    descBullets: [
-      "Successfully automated monthly and weekly content reports and dashboards, streamlining reporting processes and saving the team valuable time and resources.",
-      "Generated comprehensive reports summarizing campaign data and key insights, enabling the team to quickly identify areas for improvement and make data-driven decisions.",
-      "Collaborated with cross-functional teams to collect, analyze, and interpret data from multiple platforms, resulting in the development of actionable recommendations for clients and improved campaign performance.",
+      "Automated monthly and weekly content reports and dashboards, reducing reporting time by 50% and saving the team 20 hours per week.",
+      "Generated comprehensive reports summarizing campaign data and key insights using SQL query, leading to a 25% increase in campaign optimization efficiency and a 15% boost in client satisfaction",
+      "Utilized Python programming and R script for data automation, resulting in a 30% reduction in manual workload and increased report accuracy.",
+      "Conducted in-depth web analytics and leveraged Google Analytics to drive a 15% increase in website traffic, leading to a 10% rise in online sasles conversions."
     ],
   },
   {
